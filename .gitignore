@@ -151,3 +151,67 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .DS_Store
+project/MarCas_Part1/ccft.txt
+project/MarCas_Part1/ccgt.txt
+project/MarCas_Part1/cevt.txt
+project/MarCas_Part1/cfct.txt
+project/MarCas_Part1/cfet.txt
+project/MarCas_Part1/cift.txt
+project/MarCas_Part1/cirt.txt
+project/MarCas_Part1/civt.txt
+project/MarCas_Part1/converta.txt
+project/MarCas_Part1/cpct.txt
+project/MarCas_Part1/cpdt.txt
+project/MarCas_Part1/csft.txt
+project/MarCas_Part1/cwxt.txt
+project/MarCas_Part1/fidt.txt
+project/MarCas_Part1/mpir70.txt
+project/MarCas_Part1/mpir80.txt
+project/MarCas_Part1/mprc70.txt
+project/MarCas_Part1/mprc80.txt
+project/MarCas_Part1/mprn70.txt
+project/MarCas_Part1/mprn80.txt
+project/MarCas_Part1/mpsf70.txt
+project/MarCas_Part1/mpsf80.txt
+project/MarCas_Part1/mpsv70.txt
+project/MarCas_Part1/mpsv80.txt
+project/MarCas_Part1/mtkt.txt
+project/MarCas_Part1/mtl70.txt
+project/MarCas_Part1/mtl80.txt
+project/MarCas_Part1/mv70.txt
+project/MarCas_Part1/mv80.txt
+project/MarCas_Part1/mvcttk.txt
+project/MarCas_Part1/pcas.txt
+project/MarCas_Part1/pirs.doc
+project/MarCas_Part1/post.txt
+project/MarCas_Part1/prit.txt
+project/MarCas_Part1/prittk.txt
+project/MarCas_Part1/psst.txt
+project/MarCas_Part1/pssttk.txt
+project/MarCas_Part1/pvst.txt
+project/MarCas_Part1/readme.doc
+project/MarCas_Part1/tcet.txt
+project/MarCas_Part1/vcas.txt
+project/MarCas_Part1/vidt.txt
+project/MISLE DATA/MisleActivity.txt
+project/MISLE DATA/MisleActivity.zip
+project/MISLE DATA/MisleFacEvents.txt
+project/MISLE DATA/MisleFacEvents.zip
+project/MISLE DATA/MisleFacility.txt
+project/MISLE DATA/MisleFacility.zip
+project/MISLE DATA/MisleFacPoll.txt
+project/MISLE DATA/MisleFacPoll.zip
+project/MISLE DATA/MisleInjury.txt
+project/MISLE DATA/MisleInjury.zip
+project/MISLE DATA/MisleOtherEvents.txt
+project/MISLE DATA/MisleOtherEvents.zip
+project/MISLE DATA/MisleOtherPoll.txt
+project/MISLE DATA/MisleOtherPoll.zip
+project/MISLE DATA/MisleReadme.docx
+project/MISLE DATA/MisleVessel.txt
+project/MISLE DATA/MisleVessel.zip
+project/MISLE DATA/MisleVslEvents.txt
+project/MISLE DATA/MisleVslEvents.zip
+project/MISLE DATA/MisleVslPoll.txt
+project/MISLE DATA/MisleVslPoll.zip
+project/MarCas_Part1/CASMAIN_DICTIONARY.doc
